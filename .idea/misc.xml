@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/AndroidWork/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/AndroidWork/app/src/main/res/layout/activity_home_page.xml" value="0.5" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/AndroidWork/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/AndroidWork/app/src/main/res/layout/fragment_blank.xml" value="0.5" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/AndroidWork/app/src/main/res/layout/item_list.xml" value="0.3558974358974359" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21476793248945147" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/drawable/default_pager_dot.xml" value="0.21752136752136753" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21476793248945147" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/drawable/selected_pager_dot.xml" value="0.21752136752136753" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/drawable/tab_pager_selector.xml" value="0.21752136752136753" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/drawable/viewpager_indicators.xml" value="0.21752136752136753" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/drawable/viewpager_not_selected.xml" value="0.3106837606837607" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/drawable/viewpager_selected.xml" value="0.21752136752136753" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/activity_login.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/activity_main.xml" value="0.12393162393162394" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/activity_view_pager.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/fragment_view_pager.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/fragment_view_pager1.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/fragment_view_pager2.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/fragment_view_pager3.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/fragment_view_pager_one.xml" value="0.29743589743589743" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/MVVM/app/src/main/res/layout/item_list.xml" value="0.29743589743589743" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>

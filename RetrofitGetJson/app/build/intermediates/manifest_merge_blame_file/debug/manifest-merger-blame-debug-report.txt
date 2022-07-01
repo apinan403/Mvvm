@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.retrofitgetjson"
+4    android:targetSandboxVersion="1"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="21"
+9-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:8:5-28:19
+15        android:allowBackup="true"
+15-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] C:\Users\SODADAM\.gradle\caches\transforms-3\fb3270031bd107031c21c5dc13d9e5ef\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:11:9-41
+20        android:networkSecurityConfig="@xml/network_security_config"
+20-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:12:9-69
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:14:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.RetrofitGetJson" >
+24-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:15:9-53
+25        <activity
+25-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:17:9-19:40
+26            android:name="com.example.retrofitgetjson.HomePageActivity"
+26-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:18:13-45
+27            android:exported="false" />
+27-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:19:13-37
+28        <activity
+28-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:20:9-27:20
+29            android:name="com.example.retrofitgetjson.MainActivity"
+29-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:21:13-41
+30            android:exported="true" >
+30-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:22:13-36
+31            <intent-filter>
+31-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:23:13-26:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:24:17-69
+32-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:24:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:25:17-77
+34-->C:\Users\SODADAM\Desktop\TraineeWork\AndroidWork\RetrofitGetJson\app\src\main\AndroidManifest.xml:25:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <provider
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SODADAM\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+39            android:name="androidx.startup.InitializationProvider"
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SODADAM\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+40            android:authorities="com.example.retrofitgetjson.androidx-startup"
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SODADAM\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+41            android:exported="false" >
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SODADAM\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+42            <meta-data
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SODADAM\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+43                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SODADAM\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+44                android:value="androidx.startup" />
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\SODADAM\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+45            <meta-data
+45-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SODADAM\.gradle\caches\transforms-3\60fb03f7868607ff1baa13fa3ab998ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+46                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+46-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SODADAM\.gradle\caches\transforms-3\60fb03f7868607ff1baa13fa3ab998ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+47                android:value="androidx.startup" />
+47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\SODADAM\.gradle\caches\transforms-3\60fb03f7868607ff1baa13fa3ab998ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+48        </provider>
+49    </application>
+50
+51</manifest>
